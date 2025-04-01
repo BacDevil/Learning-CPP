@@ -1,1 +1,0 @@
-  std::thread worker(doWork);
