@@ -13,4 +13,6 @@ void whileFunction()
 int main()
 {
     whileFunction();
+
+    return 0;
 }
