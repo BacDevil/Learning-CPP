@@ -8,7 +8,5 @@ int main() {
         // this code will be print 9 time this code 
         std::cout << "Hello, I am while loop!" << std::endl;
         a++;
-
-
     }
 }
