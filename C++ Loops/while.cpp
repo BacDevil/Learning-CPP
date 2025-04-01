@@ -1,17 +1,14 @@
 #include <iostream>
+#include <string>
+ 
 
-void whileFunction()
-{
-    int value = 0;
-    while (value <= 10)
-    {
-        std::cout << "Nice" << std::endl;
-        value++;
+int main() {
+    int a = 0;
+    while ( a < 10) {
+        // this code will be print 9 time this code 
+        std::cout << "Hello, I am while loop!" << std::endl;
+        a++;
+
+
     }
-}
-
-int main()
-{
-    whileFunction(); // call the function.
-    return 0;  // return 0
 }
